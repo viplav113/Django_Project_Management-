@@ -15,7 +15,7 @@ This project is a Django-based application that manages clients and projects. It
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/viplav113/Django_Project_Management.git
+    git clone https://github.com/viplav113/Django_Project_Management-.git
     cd your-repo-name
     ```
 
